@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{89f6c8df-3b13-4718-b214-cf0d24e545b1}">
+		<property name="assetPath">
+			<value>Traffic2.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>50.172517006802721</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{83c88e15-940b-41d5-8795-fcede3eed2dd}</destination>
+		</relationship>
+	</object>
+</objects>

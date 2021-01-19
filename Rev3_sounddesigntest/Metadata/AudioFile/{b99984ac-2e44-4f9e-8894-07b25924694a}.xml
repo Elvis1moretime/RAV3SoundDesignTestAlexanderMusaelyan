@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{b99984ac-2e44-4f9e-8894-07b25924694a}">
+		<property name="assetPath">
+			<value>StepTile2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.51755102040816325</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{83c88e15-940b-41d5-8795-fcede3eed2dd}</destination>
+		</relationship>
+	</object>
+</objects>

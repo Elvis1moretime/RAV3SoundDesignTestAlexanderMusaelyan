@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{18e769c2-9d14-40b1-b9f0-ffb9cc1a06ab}">
+		<property name="assetPath">
+			<value>DogBehindDoor.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>15.106031746031746</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{83c88e15-940b-41d5-8795-fcede3eed2dd}</destination>
+		</relationship>
+	</object>
+</objects>
